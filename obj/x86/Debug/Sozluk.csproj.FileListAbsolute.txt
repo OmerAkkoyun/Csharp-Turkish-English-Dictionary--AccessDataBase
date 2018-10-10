@@ -1,0 +1,9 @@
+C:\Users\Ömer\source\repos\Sozluk\Sozluk\bin\x86\Debug\Sozluk.exe.config
+C:\Users\Ömer\source\repos\Sozluk\Sozluk\bin\x86\Debug\Sozluk.exe
+C:\Users\Ömer\source\repos\Sozluk\Sozluk\bin\x86\Debug\Sozluk.pdb
+C:\Users\Ömer\source\repos\Sozluk\Sozluk\obj\x86\Debug\Sozluk.Form1.resources
+C:\Users\Ömer\source\repos\Sozluk\Sozluk\obj\x86\Debug\Sozluk.Properties.Resources.resources
+C:\Users\Ömer\source\repos\Sozluk\Sozluk\obj\x86\Debug\Sozluk.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\Sozluk\Sozluk\obj\x86\Debug\Sozluk.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\Sozluk\Sozluk\obj\x86\Debug\Sozluk.exe
+C:\Users\Ömer\source\repos\Sozluk\Sozluk\obj\x86\Debug\Sozluk.pdb
